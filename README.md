@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**Ruturajpowar12/Ruturajpowar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <img src="profile.jpg" width="150" alt="Ruturaj Powar Profile Picture" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm Ruturaj Powar
+
+🎓 BCA Student | 🚀 Aspiring Full Stack Developer  
+💡 Passionate about building apps and growing in tech  
+📚 Currently learning Java, React.js, and DSA
+
+---
+
+## 💻 Tech Stack
+
+- 💻 Languages: Java, C++, HTML, CSS, JavaScript  
+- 🛠️ Tools: Git, GitHub, VS Code  
+- 🔭 Learning: React.js, Node.js, MongoDB
+
+---
+
+## 📈 My Goals for 2025
+
+- ✅ Build 10+ full-stack projects  
+- ✅ Contribute to open-source  
+- ✅ Crack a high-paying developer role  
+- ✅ Improve communication and problem-solving
+
+---
+
+## 📫 Let's Connect
+
+- Email: ruturajpowar@gmail.com  
+- GitHub: [Ruturajpowar12](https://github.com/Ruturajpowar12)
