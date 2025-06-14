@@ -12,20 +12,6 @@
 - 💻 Languages: C++, HTML, CSS, JavaScript  
 - 🛠️ Tools: Git, GitHub, VS Code  
 - 🔭 Learning: React.js, Node.js
-
----
-
-## 📈 My Goals for 2025
-
--
-
----
-
-## 📫 Let's Connect
-
-- Email: ruturajpowar2038@gmail.veloper role  
-- ✅ Improve communication and problem-solving
-
 ---
 
 ## 📫 Let's Connect
